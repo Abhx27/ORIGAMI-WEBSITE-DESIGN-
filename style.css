@@ -1,0 +1,13 @@
+h1{color: black;}
+*{
+    border: solid;
+} 
+.header{
+    background-color: wheat;
+}
+.grid{
+    background-color: wheat;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
