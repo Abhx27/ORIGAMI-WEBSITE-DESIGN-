@@ -1,19 +1,19 @@
-h1{color: black;}
+h1{color:#000000;}
 *{
     border: solid;
     text-align: center;
 } 
 .header{
-    background-color: wheat;
+    background-color: #f5deb3;
 }
 .grid{
-    background-color: wheat;
+    background-color: #f5deb3;
     display:flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
 .footer{
-    background-color: wheat;
+    background-color: #f5deb3;
     display: flex;
     justify-content: flex-end;
 }
